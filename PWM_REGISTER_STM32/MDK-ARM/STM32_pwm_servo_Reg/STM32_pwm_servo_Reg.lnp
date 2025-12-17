@@ -1,0 +1,21 @@
+--cpu Cortex-M3
+"stm32_pwm_servo_reg\startup_stm32f103xb.o"
+"stm32_pwm_servo_reg\main.o"
+"stm32_pwm_servo_reg\stm32f1xx_it.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_msp.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_gpio_ex.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_rcc.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_rcc_ex.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_gpio.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_dma.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_cortex.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_pwr.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_flash.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_flash_ex.o"
+"stm32_pwm_servo_reg\stm32f1xx_hal_exti.o"
+"stm32_pwm_servo_reg\system_stm32f1xx.o"
+--strict --scatter "STM32_pwm_servo_Reg\STM32_pwm_servo_Reg.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "STM32_pwm_servo_Reg.map" -o STM32_pwm_servo_Reg\STM32_pwm_servo_Reg.axf
