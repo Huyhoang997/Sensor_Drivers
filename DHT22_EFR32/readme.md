@@ -32,5 +32,5 @@ The driver is designed with a **low-level, timing-critical approach**, suitable 
 ---
 ## Image of DHT22
 
-![DHT22 Sensor](DHT22_EFR32/Datasheets/dht22.png)
+![DHT22 Sensor](Datasheets/dht22.png)
 
