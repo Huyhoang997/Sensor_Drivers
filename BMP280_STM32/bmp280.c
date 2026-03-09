@@ -140,46 +140,15 @@ static BMP280_Status_Typedef BMP280_ReadRawData(BMP280_Handler_t * Instance, BMP
         return BMP280_ERR;
     }
     BMP280_Status_Typedef status;
-    uint8_t press_msb = 0, press_lsb = 0, press_xlsb = 0;
-    uint8_t temp_msb = 0, temp_lsb = 0, temp_xlsb = 0;
+    uint8_t data[6];
 
-    status = BMP280_ReadRegister(Instance, BMP280_PRESS_MSB, &press_msb, 1, Timeout);
+    status = BMP280_ReadRegister(Instance, BMP280_PRESS_MSB, data, 6, Timeout);
     if(status != BMP280_OK)
     {
         return status;
     }
-
-    status = BMP280_ReadRegister(Instance, BMP280_PRESS_LSB, &press_lsb, 1, Timeout);
-    if(status != BMP280_OK)
-    {
-        return status;
-    }
-
-    status = BMP280_ReadRegister(Instance, BMP280_PRESS_XLSB, &press_xlsb, 1, Timeout);
-    if(status != BMP280_OK)
-    {
-        return status;
-    }
-
-    status = BMP280_ReadRegister(Instance, BMP280_TEMP_MSB, &temp_msb, 1, Timeout);
-    if(status != BMP280_OK)
-    {
-        return status;
-    }  
-    
-    status = BMP280_ReadRegister(Instance, BMP280_TEMP_LSB, &temp_lsb, 1, Timeout);
-    if(status != BMP280_OK)
-    {
-        return status;
-    }
-
-    status = BMP280_ReadRegister(Instance, BMP280_TEMP_XLSB, &temp_xlsb, 1, Timeout);
-    if(status != BMP280_OK)
-    {
-        return status;
-    }
-    ptr->rawPressData = ((int32_t)press_msb << 12) | ((int32_t)press_lsb << 4) | ((int32_t)press_xlsb >> 4);
-    ptr->rawTempData = ((int32_t)temp_msb << 12) | ((int32_t)temp_lsb << 4) | ((int32_t)temp_xlsb >> 4); 
+    ptr->rawPressData = ((int32_t)data[0] << 12) | ((int32_t)data[1] << 4) | ((int32_t)data[2] >> 4);
+    ptr->rawTempData = ((int32_t)data[3] << 12) | ((int32_t)data[4] << 4) | ((int32_t)data[5] >> 4); 
     return BMP280_OK;
 }
 
@@ -198,8 +167,17 @@ BMP280_Status_Typedef BMP280_ReadTemp(BMP280_Handler_t *Instance, int32_t *temp_
     {
         return status;
     }
-    BMP280_ReadOffSet(Instance, &calib_result, Timeout);
-    BMP280_ReadRawData(Instance, &calib_result, Timeout);
+    status = BMP280_ReadOffSet(Instance, &calib_result, Timeout);
+    if(status != BMP280_OK)
+    {
+        return status;
+    }
+
+    status = BMP280_ReadRawData(Instance, &calib_result, Timeout);
+    if(status != BMP280_OK)
+    {
+        return status;
+    }
 
     int32_t var1, var2, t_fine;
     var1 = ((((calib_result.rawTempData >> 3) - ((int32_t)calib_result.dig_T1 << 1))) * ((int32_t)calib_result.dig_T2)) >> 11;
@@ -224,8 +202,17 @@ BMP280_Status_Typedef BMP280_ReadPressure(BMP280_Handler_t *Instance, uint32_t *
     {
         return status;
     }
-    BMP280_ReadOffSet(Instance, &calib_result, Timeout);
-    BMP280_ReadRawData(Instance, &calib_result, Timeout);
+    status = BMP280_ReadOffSet(Instance, &calib_result, Timeout);
+    if(status != BMP280_OK)
+    {
+        return status;
+    }
+
+    status = BMP280_ReadRawData(Instance, &calib_result, Timeout);
+    if(status != BMP280_OK)
+    {
+        return status;
+    }
 
     int32_t var1_t, var2_t, t_fine;
     var1_t = ((((calib_result.rawTempData >> 3) - ((int32_t)calib_result.dig_T1 << 1))) * ((int32_t)calib_result.dig_T2)) >> 11;
