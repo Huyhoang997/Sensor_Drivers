@@ -39,13 +39,11 @@
 
 * BMP280 Temperature \& Pressure sensor
 
-&nbsp;  •   I2C-based interface 
+  * I2C-based interface 
 
-&nbsp;  •   Read offset temperature and pressure
+  * Read offset temperature and pressure
 
-&nbsp;  •   Check device ID
-
-&nbsp;	
+  * Check device ID	
 
 &nbsp;  
 
