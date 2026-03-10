@@ -1,32 +1,51 @@
 ## Included Drivers
 
-- **LCD 16x2 (HD44780 compatible)**
-  - 4-bit / 8-bit parallel interface
-  - Command & data abstraction
-  - Custom character support
+* **LCD 16x2 (HD44780 compatible)**
 
-- **DHT22 (AM2302)**
-  - Single-wire, timing-based protocol
-  - Bit-level and byte-level data decoding
-  - Temperature & humidity reading
-  - Timeout protection and checksum validation
+  * 4-bit / 8-bit parallel interface
+  * Command \& data abstraction
+  * Custom character support
 
-- **RTC (Real-Time Clock)**
-  - Time/date read & write
-  - BCD conversion
-  - Alarm / periodic read support (depending on RTC IC)
+* **DHT22 (AM2302)**
 
-- **MAX7219**
-  - 7-segment LED display driver
-  - SPI bit-banging / hardware SPI
-  - Brightness and scan limit control
+  * Single-wire, timing-based protocol
+  * Bit-level and byte-level data decoding
+  * Temperature \& humidity reading
+  * Timeout protection and checksum validation
 
-- **OLED 0.96 inch (SSD1306)**
-  - I2C interface
-  - Frame buffer based rendering
-  - Text and basic graphics support
+* **RTC (Real-Time Clock)**
 
-- **TFT LCD**
-  - SPI-based interface
-  - Basic drawing primitives
-  - Image / bitmap display support
+  * Time/date read \& write
+  * BCD conversion
+  * Alarm / periodic read support (depending on RTC IC)
+
+* **MAX7219**
+
+  * 7-segment LED display driver
+  * SPI bit-banging / hardware SPI
+  * Brightness and scan limit control
+
+* **OLED 0.96 inch (SSD1306)**
+
+  * I2C interface
+  * Frame buffer based rendering
+  * Text and basic graphics support
+
+* **TFT LCD**
+
+  * SPI-based interface
+  * Basic drawing primitives
+  * Image / bitmap display support
+
+* BMP280 Temperature \& Pressure sensor
+
+&nbsp;  •   I2C-based interface 
+
+&nbsp;  •   Read offset temperature and pressure
+
+&nbsp;  •   Check device ID
+
+&nbsp;	
+
+&nbsp;  
+
