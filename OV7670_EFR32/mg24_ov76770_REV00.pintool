@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<device:XMLDevice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:device="http://www.silabs.com/ss/hwconfig/document/device.ecore" name="pin_tool.EFR32MG24B210F1536IM48" partId="mcu.arm.efr32.mg24.efr32mg24b210f1536im48" contextId="com.silabs.sdk.stack.sisdk:2025.6.3._17922418">
+  <mode name="DefaultMode">
+    <property object="DefaultMode" propertyId="mode.diagramLocation" value="100, 100"/>
+    <property object="I2C0" propertyId="ABModule.selectedRequirement" value="i2c%T%SL_I2CSPM_HEHE%T%sl_i2cspm_hehe_config.h"/>
+    <property object="I2C0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.scl" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.sda" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.location.scl" value="20"/>
+    <property object="PORTIO" propertyId="portio.i2c0.location.sda" value="21"/>
+    <property object="PORTIO" propertyId="portio.timer0.enable.cc0" value="Enabled"/>
+    <property object="TIMER0" propertyId="ABModule.selectedRequirement" value="timer%T%SL_PWM_HIHI%T%sl_pwm_init_hihi_config.h"/>
+    <property object="TIMER0" propertyId="ABPeripheral.included" value="true"/>
+  </mode>
+  <modeTransition>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.source" value="RESET"/>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.target" value="DefaultMode"/>
+  </modeTransition>
+</device:XMLDevice>

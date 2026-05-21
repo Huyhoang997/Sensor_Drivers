@@ -1,0 +1,11 @@
+Driver/lvgl/src/misc/lv_log.o: ../Driver/lvgl/src/misc/lv_log.c \
+ ../Driver/lvgl/src/misc/lv_log.h \
+ ../Driver/lvgl/src/misc/../lv_conf_internal.h \
+ ../Driver/lvgl/src/misc/../lv_conf_kconfig.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver/lv_conf.h \
+ ../Driver/lvgl/src/misc/lv_types.h
+../Driver/lvgl/src/misc/lv_log.h:
+../Driver/lvgl/src/misc/../lv_conf_internal.h:
+../Driver/lvgl/src/misc/../lv_conf_kconfig.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver/lv_conf.h:
+../Driver/lvgl/src/misc/lv_types.h:

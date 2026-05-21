@@ -1,0 +1,1294 @@
+Driver/lvgl/src/drivers/nuttx/lv_nuttx_libuv.o: \
+ ../Driver/lvgl/src/drivers/nuttx/lv_nuttx_libuv.c \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\lvgl.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\lv_version.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_init.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_conf_kconfig.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver/lv_conf.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_mem.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_string.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_string.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_sprintf.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_log.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_types.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_timer.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\tick\lv_tick.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_ll.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_math.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_array.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_async.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_anim_timeline.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_anim.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_math.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_timer.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_profiler_builtin.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_rb.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_assert.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_log.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\stdlib\lv_mem.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_utils.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_math.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_assert.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_palette.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color_op.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\stdlib\lv_string.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_image_dsc.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/tick/lv_tick.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_font.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_symbol_def.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache_entry.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os_none.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache_private.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache_lru_rb.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_image_cache.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_image_header_cache.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_anim.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_text.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\stdlib\lv_sprintf.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_bidi.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\layouts\lv_layout.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\layouts\flex/lv_flex.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\layouts\grid/lv_grid.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style_gen.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_assert.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_tree.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_anim.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_timer.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_array.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_text.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_profiler.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_matrix.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_image_decoder.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_fs.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_pos.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_scroll.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_style.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_bidi.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_style_gen.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj_style.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_draw.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_rect.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\sw/lv_draw_sw_gradient.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_label.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_rect.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_bidi.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_image.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_line.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_arc.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_class.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_property.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_event.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_group.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_ll.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_timer.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_group.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_group.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/indev/lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_refr.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/display/lv_display.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_font.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_binfont_loader.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_font_fmt_txt.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_font.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/animimage/lv_animimage.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_fs.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/arc/lv_arc.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/bar/lv_bar.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_anim.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_font.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_symbol_def.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_text.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/button/lv_button.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/buttonmatrix/lv_buttonmatrix.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\buttonmatrix\lv_buttonmatrix.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar_header_arrow.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar_header_dropdown.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar_chinese.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/canvas/lv_canvas.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_image.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/chart/lv_chart.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/checkbox/lv_checkbox.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/dropdown/lv_dropdown.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/image/lv_image.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/imagebutton/lv_imagebutton.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/keyboard/lv_keyboard.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\buttonmatrix\lv_buttonmatrix.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/label/lv_label.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/led/lv_led.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/line/lv_line.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/list/lv_list.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/lottie/lv_lottie.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/menu/lv_menu.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/msgbox/lv_msgbox.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/roller/lv_roller.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/scale/lv_scale.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\line\lv_line.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/slider/lv_slider.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\bar\lv_bar.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/span/lv_span.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/spinbox/lv_spinbox.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\textarea\lv_textarea.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/spinner/lv_spinner.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/switch/lv_switch.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/table/lv_table.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/tabview/lv_tabview.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/textarea/lv_textarea.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/tileview/lv_tileview.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/win/lv_win.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/snapshot/lv_snapshot.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/sysmon/lv_sysmon.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_timer.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\others\observer\lv_observer.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/monkey/lv_monkey.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/gridnav/lv_gridnav.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/fragment/lv_fragment.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/imgfont/lv_imgfont.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_font.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/observer/lv_observer.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/ime/lv_ime_pinyin.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/file_explorer/lv_file_explorer.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/barcode/lv_barcode.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\canvas\lv_canvas.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/bin_decoder/lv_bin_decoder.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_image_decoder.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/bmp/lv_bmp.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/rle/lv_rle.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/fsdrv/lv_fsdrv.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/lodepng/lv_lodepng.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/libpng/lv_libpng.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/gif/lv_gif.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj_class.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/qrcode/lv_qrcode.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\canvas\lv_canvas.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/tjpgd/lv_tjpgd.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/freetype/lv_freetype.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/rlottie/lv_rlottie.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/ffmpeg/lv_ffmpeg.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/tiny_ttf/lv_tiny_ttf.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/layouts/lv_layout.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw_buf.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw_vector.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_array.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_matrix.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw_image.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/sw/lv_draw_sw.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_vector.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_triangle.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_label.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_image.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_line.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_arc.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/sw/blend/lv_draw_sw_blend.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\sw\lv_draw_sw_mask.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_math.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/lv_theme.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/default/lv_theme_default.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\themes\lv_theme.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/mono/lv_theme_mono.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\themes\lv_theme.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/simple/lv_theme_simple.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\themes\lv_theme.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/lv_drivers.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_window.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_mouse.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_window.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_mousewheel.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_keyboard.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/x11/lv_x11.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/display/drm/lv_linux_drm.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/display/fb/lv_linux_fbdev.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/display/tft_espi/lv_tft_espi.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_entry.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_fbdev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_touchscreen.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_lcd.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_libuv.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/evdev/lv_evdev.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/libinput/lv_libinput.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/windows/lv_windows_input.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/windows/lv_windows_display.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/glfw/lv_glfw_window.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/glfw/lv_opengles_texture.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/glfw/lv_opengles_driver.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/qnx/lv_qnx.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/wayland/lv_wayland.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_api_map_v8.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_api_map_v9_0.h \
+ C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_api_map_v9_1.h \
+ ../Driver/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../../lvgl.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../lvgl_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_global.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../lv_conf_internal.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_types.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_anim.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_area.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_color_op.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_ll.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_log.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_style.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_timer.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../osal/lv_os.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../others/sysmon/lv_sysmon.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/lv_tlsf.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../lv_conf_internal.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../osal/lv_os.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../misc/lv_ll.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../misc/lv_types.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../tick/lv_tick.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../layouts/lv_layout.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_timer_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_timer.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_anim_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_anim.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../tick/lv_tick_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../tick/lv_tick.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw_buf_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw_buf.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/../lv_draw_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw_mask_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw_mask.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/lv_tlsf_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/lv_tlsf.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../others/sysmon/lv_sysmon_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../others/sysmon/lv_sysmon.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../layouts/lv_layout_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/../layouts/lv_layout.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../display/lv_display_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../display/../misc/lv_types.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../display/../core/lv_obj.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../display/../draw/lv_draw.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../display/lv_display.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../display/../others/sysmon/lv_sysmon_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../indev/lv_indev_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../indev/lv_indev.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../indev/../misc/lv_anim.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_text_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_text.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/cache/lv_cache_entry_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/cache/../lv_types.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/cache/../../osal/lv_os.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/cache/../lv_profiler.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/cache/lv_cache_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../layouts/lv_layout_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../stdlib/lv_mem_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../stdlib/lv_mem.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/lv_file_explorer_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/../../core/lv_obj.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/lv_file_explorer.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/sysmon/lv_sysmon_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/monkey/lv_monkey_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/monkey/lv_monkey.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/ime/lv_ime_pinyin_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/ime/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/ime/lv_ime_pinyin.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/fragment/lv_fragment_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/fragment/lv_fragment.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/observer/lv_observer_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../others/observer/lv_observer.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/lv_qrcode_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/lv_canvas_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/../image/lv_image_private.h \
+ c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/../image/lv_image.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/lv_canvas.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/lv_qrcode.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/barcode/lv_barcode_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/barcode/../../widgets/canvas/lv_canvas_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/barcode/lv_barcode.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/gif/lv_gif_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/gif/../../widgets/image/lv_image_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/gif/lv_gif.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_triangle_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_triangle.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_rect_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_rect.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_image_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_image.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_image_decoder_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_image_decoder.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_label_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_label.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_vector_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_vector.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_buf_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_mask_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_mask.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/../misc/lv_color.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/../misc/lv_area.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/../misc/lv_style.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_gradient_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_gradient.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_mask_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/sw/blend/lv_draw_sw_blend_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../draw/sw/blend/lv_draw_sw_blend.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_xkb_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_xkb.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/../../lv_conf_internal.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_libinput_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_libinput.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../font/lv_font_fmt_txt_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../font/lv_font_fmt_txt.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../themes/lv_theme_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../themes/lv_theme.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_refr_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_refr.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_style_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_style.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_scroll_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_scroll.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_draw_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_draw.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_class_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_class.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_group_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_group.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_event_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_event.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_timer_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_area_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_area.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_fs_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_fs.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_profiler_builtin_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_profiler_builtin.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_event_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_event.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_bidi_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_bidi.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_rb_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_rb.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_style_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_style.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_color_op_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_color_op.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../misc/lv_anim_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/msgbox/lv_msgbox_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/msgbox/lv_msgbox.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/msgbox/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/buttonmatrix/lv_buttonmatrix_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/buttonmatrix/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/buttonmatrix/lv_buttonmatrix.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/lv_slider_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/../bar/lv_bar_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/../bar/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/../bar/lv_bar.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/lv_slider.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/switch/lv_switch_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/switch/lv_switch.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/switch/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/calendar/lv_calendar_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/calendar/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/calendar/lv_calendar.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/imagebutton/lv_imagebutton_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/imagebutton/lv_imagebutton.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/imagebutton/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/bar/lv_bar_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/image/lv_image_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/textarea/lv_textarea_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/textarea/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/textarea/lv_textarea.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/table/lv_table_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/table/lv_table.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/table/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/checkbox/lv_checkbox_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/checkbox/lv_checkbox.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/checkbox/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/roller/lv_roller_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/roller/lv_roller.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/roller/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/win/lv_win_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/win/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/win/lv_win.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/keyboard/lv_keyboard_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/keyboard/../buttonmatrix/lv_buttonmatrix_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/keyboard/lv_keyboard.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/line/lv_line_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/line/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/line/lv_line.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/lv_animimage_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/../image/lv_image_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/../../misc/lv_anim_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/lv_animimage.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/dropdown/lv_dropdown_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/dropdown/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/dropdown/lv_dropdown.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/menu/lv_menu_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/menu/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/menu/lv_menu.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/chart/lv_chart_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/chart/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/chart/lv_chart.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/button/lv_button_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/button/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/button/lv_button.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/scale/lv_scale_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/scale/lv_scale.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/scale/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/led/lv_led_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/led/lv_led.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/led/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/arc/lv_arc_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/arc/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/arc/lv_arc.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/tileview/lv_tileview_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/tileview/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/tileview/lv_tileview.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/spinbox/lv_spinbox_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/spinbox/../textarea/lv_textarea_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/spinbox/lv_spinbox.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/span/lv_span_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/span/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/span/lv_span.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/label/lv_label_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/label/../../draw/lv_draw_label_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/label/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/label/lv_label.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/canvas/lv_canvas_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/tabview/lv_tabview_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/tabview/../../core/lv_obj_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/tabview/lv_tabview.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../tick/lv_tick_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../stdlib/builtin/lv_tlsf_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/rlottie/lv_rlottie_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/rlottie/lv_rlottie.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/ffmpeg/lv_ffmpeg_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../libs/ffmpeg/lv_ffmpeg.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/lottie/lv_lottie_private.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../widgets/lottie/../../lv_conf_internal.h \
+ ../Driver/lvgl/src/drivers/nuttx/../../osal/lv_os_private.h
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\lvgl.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\lv_version.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_init.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_conf_kconfig.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver/lv_conf.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_mem.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_string.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_string.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/stdlib/lv_sprintf.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_log.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_types.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_timer.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\tick\lv_tick.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_ll.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_math.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_array.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_async.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_anim_timeline.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_anim.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_math.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_timer.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_profiler_builtin.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_rb.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_assert.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_log.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\stdlib\lv_mem.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/misc/lv_utils.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_math.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_assert.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_palette.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color_op.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\stdlib\lv_string.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_image_dsc.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/tick/lv_tick.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_font.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_symbol_def.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache_entry.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os_none.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache_private.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache_lru_rb.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_image_cache.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_image_header_cache.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_anim.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_text.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\stdlib\lv_sprintf.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_bidi.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\layouts\lv_layout.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\layouts\flex/lv_flex.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\layouts\grid/lv_grid.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style_gen.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_assert.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_tree.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_anim.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_timer.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_array.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_text.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_profiler.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_matrix.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_image_decoder.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_fs.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\cache\lv_cache.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_pos.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_scroll.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_style.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_bidi.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_style_gen.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj_style.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_draw.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_rect.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\sw/lv_draw_sw_gradient.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_label.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_rect.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_bidi.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_image.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_line.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_arc.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_class.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_property.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj_event.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_group.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_ll.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_timer.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_group.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_group.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/indev/lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_refr.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/core/lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/display/lv_display.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_font.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_binfont_loader.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_font_fmt_txt.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/font/lv_font.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/animimage/lv_animimage.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_fs.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/arc/lv_arc.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/bar/lv_bar.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_anim.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_font.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_symbol_def.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_text.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/button/lv_button.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/buttonmatrix/lv_buttonmatrix.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\buttonmatrix\lv_buttonmatrix.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar_header_arrow.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar_header_dropdown.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar_chinese.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/calendar/lv_calendar.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/canvas/lv_canvas.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_image.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/chart/lv_chart.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/checkbox/lv_checkbox.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/dropdown/lv_dropdown.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/image/lv_image.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/imagebutton/lv_imagebutton.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/keyboard/lv_keyboard.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\buttonmatrix\lv_buttonmatrix.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/label/lv_label.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/led/lv_led.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/line/lv_line.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/list/lv_list.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/lottie/lv_lottie.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/menu/lv_menu.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/msgbox/lv_msgbox.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/roller/lv_roller.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/scale/lv_scale.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\line\lv_line.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/slider/lv_slider.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\bar\lv_bar.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/span/lv_span.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/spinbox/lv_spinbox.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\textarea\lv_textarea.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/spinner/lv_spinner.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/switch/lv_switch.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/table/lv_table.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\label\lv_label.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/tabview/lv_tabview.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/textarea/lv_textarea.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/tileview/lv_tileview.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/widgets/win/lv_win.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/snapshot/lv_snapshot.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/sysmon/lv_sysmon.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_timer.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\others\observer\lv_observer.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/monkey/lv_monkey.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/gridnav/lv_gridnav.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/fragment/lv_fragment.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/imgfont/lv_imgfont.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\font\lv_font.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/observer/lv_observer.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/ime/lv_ime_pinyin.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/others/file_explorer/lv_file_explorer.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/barcode/lv_barcode.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\canvas\lv_canvas.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/bin_decoder/lv_bin_decoder.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_image_decoder.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/bmp/lv_bmp.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/rle/lv_rle.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/fsdrv/lv_fsdrv.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/lodepng/lv_lodepng.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/libpng/lv_libpng.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/gif/lv_gif.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_buf.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\image\lv_image.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj_class.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/qrcode/lv_qrcode.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\widgets\canvas\lv_canvas.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/tjpgd/lv_tjpgd.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/libjpeg_turbo/lv_libjpeg_turbo.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/freetype/lv_freetype.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_event.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/rlottie/lv_rlottie.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/ffmpeg/lv_ffmpeg.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/libs/tiny_ttf/lv_tiny_ttf.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/layouts/lv_layout.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw_buf.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw_vector.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_array.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_matrix.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/lv_draw_image.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/sw/lv_draw_sw.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\osal\lv_os.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_vector.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_triangle.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_label.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_image.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_line.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\lv_draw_arc.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/draw/sw/blend/lv_draw_sw_blend.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\draw\sw\lv_draw_sw_mask.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_math.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_types.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_color.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_area.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\misc\lv_style.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/lv_theme.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/default/lv_theme_default.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\themes\lv_theme.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/mono/lv_theme_mono.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\themes\lv_theme.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/themes/simple/lv_theme_simple.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\themes\lv_theme.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/lv_drivers.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_window.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_mouse.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_window.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_mousewheel.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/sdl/lv_sdl_keyboard.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/x11/lv_x11.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/display/drm/lv_linux_drm.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/display/fb/lv_linux_fbdev.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/display/tft_espi/lv_tft_espi.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_entry.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_fbdev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_touchscreen.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_lcd.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/nuttx/lv_nuttx_libuv.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/evdev/lv_evdev.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/libinput/lv_libinput.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/windows/lv_windows_input.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/windows/lv_windows_display.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/glfw/lv_glfw_window.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\lv_conf_internal.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/glfw/lv_opengles_texture.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/glfw/lv_opengles_driver.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/qnx/lv_qnx.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/drivers/wayland/lv_wayland.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\display\lv_display.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\indev\lv_indev.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_api_map_v8.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_api_map_v9_0.h:
+C:\Users\ACER\SimplicityStudio\v5_workspace\xg26_tft_spi_Lib\Driver\lvgl\src/lv_api_map_v9_1.h:
+../Driver/lvgl/src/drivers/nuttx/lv_nuttx_libuv.h:
+../Driver/lvgl/src/drivers/nuttx/../../../lvgl.h:
+../Driver/lvgl/src/drivers/nuttx/../../lvgl_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_global.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../lv_conf_internal.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_types.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_anim.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_area.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_color_op.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_ll.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_log.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_style.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_timer.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../osal/lv_os.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../others/sysmon/lv_sysmon.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/lv_tlsf.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../lv_conf_internal.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../osal/lv_os.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../misc/lv_ll.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/../../misc/lv_types.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../tick/lv_tick.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../layouts/lv_layout.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_timer_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_timer.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_anim_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../misc/lv_anim.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../tick/lv_tick_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../tick/lv_tick.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw_buf_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw_buf.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/lv_draw.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/../lv_draw_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw_mask_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../draw/sw/lv_draw_sw_mask.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/lv_tlsf_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../stdlib/builtin/lv_tlsf.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../others/sysmon/lv_sysmon_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../others/sysmon/lv_sysmon.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../layouts/lv_layout_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/../layouts/lv_layout.h:
+../Driver/lvgl/src/drivers/nuttx/../../display/lv_display_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../display/../misc/lv_types.h:
+../Driver/lvgl/src/drivers/nuttx/../../display/../core/lv_obj.h:
+../Driver/lvgl/src/drivers/nuttx/../../display/../draw/lv_draw.h:
+../Driver/lvgl/src/drivers/nuttx/../../display/lv_display.h:
+../Driver/lvgl/src/drivers/nuttx/../../display/../others/sysmon/lv_sysmon_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../indev/lv_indev_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../indev/lv_indev.h:
+../Driver/lvgl/src/drivers/nuttx/../../indev/../misc/lv_anim.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_text_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_text.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/cache/lv_cache_entry_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/cache/../lv_types.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/cache/../../osal/lv_os.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/cache/../lv_profiler.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/cache/lv_cache_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../layouts/lv_layout_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../stdlib/lv_mem_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../stdlib/lv_mem.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/lv_file_explorer_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/../../core/lv_obj.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/file_explorer/lv_file_explorer.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/sysmon/lv_sysmon_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/monkey/lv_monkey_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/monkey/lv_monkey.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/ime/lv_ime_pinyin_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/ime/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/ime/lv_ime_pinyin.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/fragment/lv_fragment_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/fragment/lv_fragment.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/observer/lv_observer_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../others/observer/lv_observer.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/lv_qrcode_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/lv_canvas_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/../image/lv_image_private.h:
+c:\users\acer\simplicitystudio\v5_workspace\xg26_tft_spi_lib\driver\lvgl\src\core\lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/../image/lv_image.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/../../widgets/canvas/lv_canvas.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/qrcode/lv_qrcode.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/barcode/lv_barcode_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/barcode/../../widgets/canvas/lv_canvas_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/barcode/lv_barcode.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/gif/lv_gif_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/gif/../../widgets/image/lv_image_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/gif/lv_gif.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_triangle_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_triangle.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_rect_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_rect.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_image_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_image.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_image_decoder_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_image_decoder.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_label_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_label.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_vector_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_vector.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_buf_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_mask_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw_mask.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/../misc/lv_color.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/../misc/lv_area.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/../misc/lv_style.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/lv_draw.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_gradient_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_gradient.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/sw/lv_draw_sw_mask_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/sw/blend/lv_draw_sw_blend_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../draw/sw/blend/lv_draw_sw_blend.h:
+../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_xkb_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_xkb.h:
+../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/../../lv_conf_internal.h:
+../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_libinput_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../drivers/libinput/lv_libinput.h:
+../Driver/lvgl/src/drivers/nuttx/../../font/lv_font_fmt_txt_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../font/lv_font_fmt_txt.h:
+../Driver/lvgl/src/drivers/nuttx/../../themes/lv_theme_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../themes/lv_theme.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_refr_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_refr.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_style_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_style.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_scroll_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_scroll.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_draw_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_draw.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_class_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_class.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_group_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_group.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_event_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../core/lv_obj_event.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_timer_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_area_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_area.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_fs_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_fs.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_profiler_builtin_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_profiler_builtin.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_event_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_event.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_bidi_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_bidi.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_rb_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_rb.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_style_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_style.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_color_op_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_color_op.h:
+../Driver/lvgl/src/drivers/nuttx/../../misc/lv_anim_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/msgbox/lv_msgbox_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/msgbox/lv_msgbox.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/msgbox/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/buttonmatrix/lv_buttonmatrix_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/buttonmatrix/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/buttonmatrix/lv_buttonmatrix.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/lv_slider_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/../bar/lv_bar_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/../bar/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/../bar/lv_bar.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/slider/lv_slider.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/switch/lv_switch_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/switch/lv_switch.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/switch/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/calendar/lv_calendar_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/calendar/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/calendar/lv_calendar.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/imagebutton/lv_imagebutton_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/imagebutton/lv_imagebutton.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/imagebutton/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/bar/lv_bar_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/image/lv_image_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/textarea/lv_textarea_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/textarea/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/textarea/lv_textarea.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/table/lv_table_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/table/lv_table.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/table/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/checkbox/lv_checkbox_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/checkbox/lv_checkbox.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/checkbox/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/roller/lv_roller_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/roller/lv_roller.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/roller/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/win/lv_win_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/win/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/win/lv_win.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/keyboard/lv_keyboard_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/keyboard/../buttonmatrix/lv_buttonmatrix_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/keyboard/lv_keyboard.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/line/lv_line_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/line/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/line/lv_line.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/lv_animimage_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/../image/lv_image_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/../../misc/lv_anim_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/animimage/lv_animimage.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/dropdown/lv_dropdown_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/dropdown/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/dropdown/lv_dropdown.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/menu/lv_menu_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/menu/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/menu/lv_menu.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/chart/lv_chart_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/chart/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/chart/lv_chart.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/button/lv_button_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/button/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/button/lv_button.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/scale/lv_scale_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/scale/lv_scale.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/scale/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/led/lv_led_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/led/lv_led.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/led/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/arc/lv_arc_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/arc/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/arc/lv_arc.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/tileview/lv_tileview_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/tileview/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/tileview/lv_tileview.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/spinbox/lv_spinbox_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/spinbox/../textarea/lv_textarea_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/spinbox/lv_spinbox.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/span/lv_span_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/span/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/span/lv_span.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/label/lv_label_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/label/../../draw/lv_draw_label_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/label/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/label/lv_label.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/canvas/lv_canvas_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/tabview/lv_tabview_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/tabview/../../core/lv_obj_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/tabview/lv_tabview.h:
+../Driver/lvgl/src/drivers/nuttx/../../tick/lv_tick_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../stdlib/builtin/lv_tlsf_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/rlottie/lv_rlottie_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/rlottie/lv_rlottie.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/ffmpeg/lv_ffmpeg_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../libs/ffmpeg/lv_ffmpeg.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/lottie/lv_lottie_private.h:
+../Driver/lvgl/src/drivers/nuttx/../../widgets/lottie/../../lv_conf_internal.h:
+../Driver/lvgl/src/drivers/nuttx/../../osal/lv_os_private.h:
